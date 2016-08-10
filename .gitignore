@@ -1,4 +1,4 @@
 venv/
 build/
 dist/
-simple-passgen.egg-info
+simple_passgen.egg-info
