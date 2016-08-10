@@ -7,6 +7,6 @@ uses precisely ASCII codes 33-126. This generates passwords with 6.554 bits of e
 character.  Some basic statistics are given about the password on each generation depending on 
 the length settings chosen.
 ## Usage
-```
-shell passgen [phrase length]
+```shell 
+passgen [phrase length]
 ```
