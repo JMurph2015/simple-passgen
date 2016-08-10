@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='simple-passgen',
-    version='0.1',
+    version='0.1.0',
     author='Joseph Murphy',
     author_email='air.jmurph+simple-passgen@gmail.com',
     url='https://github.com/JMurph2015/simple-passgen',

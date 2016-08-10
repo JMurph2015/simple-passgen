@@ -1,3 +1,8 @@
+COPYING
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
 setup.py
 passgen/__init__.py
 passgen/simple_passgen.py
