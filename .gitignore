@@ -1,1 +1,4 @@
 venv/
+build/
+dist/
+simple-passgen.egg-info
