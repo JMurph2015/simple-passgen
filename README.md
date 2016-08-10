@@ -10,3 +10,8 @@ the length settings chosen.
 ```shell 
 passgen [phrase length]
 ```
+## Installation
+```shell
+pip install simple-passgen
+```
+(worked best with root when installing globally)
